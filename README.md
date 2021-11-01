@@ -2,7 +2,7 @@
 
 A fictious medical cannabis company website built using Bootstrap5
 
-<img src="https://github.com/DesignisOrion/Pyramid-Central/blob/main/img/Screenshot%20(1).png">
+<img src="https://github.com/DesignisOrion/EarfSurf/blob/main/img/earfsurf.png">
 
 ## Description
 
