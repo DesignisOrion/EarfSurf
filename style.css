@@ -6,7 +6,7 @@
     
 }
 
-.row{
+#row {
     background: white;
     border-radius: 30px;
     box-shadow: 12px 12px 22px;
@@ -16,6 +16,7 @@
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;
 }
+
 
 .brandPhoto h1{
     font-size: 4rem;
@@ -53,8 +54,11 @@ p {
     transition: 0.5s;
 }
 
+.card {
+    border-radius: 30px;
+}
 
-.fa-google{
-    font-size: 2.5rem;
-    color: darkred;
+.card-img-top{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
 }
