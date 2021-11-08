@@ -6,7 +6,7 @@ A fictious medical cannabis company website built using Bootstrap5
 
 ## Description
 
-In this project, I wanted to focus on the responsive design of the website for desktop and mobile. Also wanted to intergrate the Twillio API which allows the menu to be sent to users of the app. The goal was to show skills in use of the Twillio API using responsive design.
+In this project, I wanted to focus on the responsive website for desktop and mobile. Addition to the responsive site is the Aframe connection in which allows users to move in the VR (metaverse). Controls are used of the "W", "S", "D", "A" keys. Enjoy.
 
 Live Page: https://designisorion.github.io/EarfSurf/
 
