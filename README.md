@@ -15,11 +15,10 @@ Live Page: https://designisorion.github.io/EarfSurf/
 ### Dependencies
 
 * Bootstrap 5 CDN
-* Twillo API
 
 ### Installing
 
-* Be sure to use a twillo API
+* Be sure to use a Aframe CDN
 ```
 <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
 
